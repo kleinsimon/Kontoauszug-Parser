@@ -1,0 +1,12 @@
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Debug\tessnet2_32.dll
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Debug\tessnet2_32.pdb

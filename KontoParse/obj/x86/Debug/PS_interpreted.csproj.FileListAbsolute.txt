@@ -1,0 +1,2 @@
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

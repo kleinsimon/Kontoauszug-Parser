@@ -1,0 +1,11 @@
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Release\tesseractengine3.dll
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Release\KontoauzugParser.exe.config
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Release\KontoauzugParser.exe
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\bin\Release\KontoauzugParser.pdb
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\KontoauzugParser.Properties.Resources.resources
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\KontoauzugParser.exe
+L:\dev\csharp\kontoauszugparser\WindowsFormsApplication1\obj\x86\Release\KontoauzugParser.pdb
